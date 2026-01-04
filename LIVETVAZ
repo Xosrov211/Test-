@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="LIVE TV AZ" tvg-logo="https://example.com/livetvaz.png" group-title="Azərbaycan",LIVE TV AZ
+https://helga.iptv2022.com/LIVETVAZ/index.m3u8
